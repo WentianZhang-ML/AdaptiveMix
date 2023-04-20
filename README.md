@@ -8,19 +8,8 @@ This repository provides the official PyTorch implementation for the following p
 
 ![Method](./teaser.gif)
 
-## Data repository
+## Data repository (TODO)
 Pretrained models can be downloaded from Google Drive
-
-### Image Generation
-|                     Model                    | Description |  FID |
-|:--------------------------------------------:|:-----------:|:----:|
-| afhqcat5k-256x256-styleganv2-adaptivemix.pkl |             |      |
-|  ffhq70k-256x256-styleganv2-adaptivemix.pkl  |             |      |
-
-### Visual Recognition
-|                     Model                    | Description |  ACC. |
-|:--------------------------------------------:|:-----------:|:----:|
-| cifar10-WResNet28-10.pth                     |             |      |
 
 ## Requirements
 
