@@ -8,8 +8,7 @@ This repository provides the official PyTorch implementation for the following p
 
 ![Method](./teaser.gif)
 
-## Data repository (TODO)
-Pretrained models can be downloaded from Google Drive
+## Data repository ([TODO]())
 
 ## Requirements
 
