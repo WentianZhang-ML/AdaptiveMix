@@ -9,6 +9,7 @@ This repository provides the official PyTorch implementation for the following p
 ![Method](./teaser.gif)
 
 ## Data repository ([TODO]())
+Pretrained models will be released soon! 
 
 ## Requirements
 
