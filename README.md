@@ -45,7 +45,7 @@ CUDA_VISIBLE_DEVICES=${gpu_device} python3 generation/train.py \
 --noise_std=0.05;
 ```
 or you can use the shell `bash run_cat_stylegan.sh ` and `bash run_ffhq_full_stylegan.sh `  \
-*(Additional configuration and evaluation metrics are listed in https://github.com/WentianZhang-ML/AdaptiveMix/generation/#Configuration)*
+*(Additional configuration and evaluation metrics are listed in [Configuration](https://github.com/WentianZhang-ML/AdaptiveMix/tree/main/generation#configuration))*
 
 ### Visual Recognition
 *   To train Wide_ResNet-28-10 with AdaptiveMix on CIFAR10 with GPU 0, you can define the configuration by
